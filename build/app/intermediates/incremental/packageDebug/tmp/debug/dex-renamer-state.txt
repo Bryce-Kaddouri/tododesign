@@ -1,0 +1,4 @@
+#Sun Jan 22 16:09:19 GMT 2023
+base.0=C\:\\Users\\bricr\\Documents\\mytodoappwithapi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

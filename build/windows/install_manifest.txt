@@ -1,0 +1,13 @@
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/assets/cover.png
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/assets/github-logo.png
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/assets/profile.png
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/bricr/Documents/mytodoappwithapi/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

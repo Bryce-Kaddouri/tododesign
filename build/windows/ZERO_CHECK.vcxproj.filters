@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bricr\Documents\mytodoappwithapi\build\windows\CMakeFiles\6a16ce4d9d0197e74eda6472276bbe5d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{46C4D3EC-46BA-338A-8660-8B45EDD04D0E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

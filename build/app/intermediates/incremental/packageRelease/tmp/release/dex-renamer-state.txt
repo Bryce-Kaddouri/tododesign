@@ -1,0 +1,4 @@
+#Mon Jan 23 03:13:46 GMT 2023
+base.0=C\:\\Users\\bricr\\Documents\\mytodoappwithapi\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
